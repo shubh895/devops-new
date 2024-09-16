@@ -1,2 +1,2 @@
 # devops-new
-THis is a new github repository
+This is a new github repository
